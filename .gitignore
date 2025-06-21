@@ -1,0 +1,27 @@
+# Ignore virtual environment
+chatbotenv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
